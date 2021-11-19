@@ -1,7 +1,25 @@
 .main-content {
 	text-align: center;
 	background-color: beige;
-	padding-bottom: 10%;
-	border-radius: 20px;
+	width: 80%;
+	margin: auto;
+	padding-bottom: 4%;
 	padding-top: 2%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	border-radius: 20px;
+}
+
+.main-content p {
+	
+}
+
+img {
+	border: 5px ridge gold;
+	width: 500px;
+	height: auto;	
+}
+
+ul li {
+	list-style-type: square;
 }
