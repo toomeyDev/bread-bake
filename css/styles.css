@@ -7,11 +7,16 @@
 	padding-top: 2%;
 	margin-top: 1%;
 	margin-bottom: 1%;
+	border: 5px ridge black;
 	border-radius: 20px;
 }
 
 .main-content p {
-	
+	font-family: Georgia, serif;
+}
+
+a:hover {
+	color: gold;
 }
 
 img {
