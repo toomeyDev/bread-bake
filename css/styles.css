@@ -25,6 +25,13 @@ img {
 	height: auto;	
 }
 
+ul {
+	margin: 0px auto;
+	text-align: center;
+	width: 80%;
+}
+
 ul li {
+	margin: 0px 5%;
 	list-style-type: square;
 }
